@@ -29,5 +29,4 @@ Li-Charger is a tiny, but super powerful board for charging Li-Ion/Li-Po batteri
 - Battery protection (BMS/PCM) is recommended.
 
 ## BOM
-herherehrhe is bom add later tomorrow
-dsgssdihbg7438gifhssujdssssssssssssssssssssssssdddddddddfbhjsdbfhdsj
+[Click Here](./BOM.csv)
