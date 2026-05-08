@@ -1,5 +1,5 @@
 Reference,Qty,Value,Link
-"5V_IN1,GND1,GND2,GND3,VBAT1,VOUT1",dont,dont buy anything,"Don't but anything, these are just pin so you can solder ETC"
+"5V_IN1,GND1,GND2,GND3,VBAT1,VOUT1",Don't,Don't buy ,"Don't buy, these are just pin so you can solder ETC"
 "C1,C2",2,10uF,https://www.tme.eu/pl/details/grm21bz71c106ke15l/kondensatory-mlcc-smd/murata/
 D1,1,CHG,https://www.tme.eu/pl/details/kp-2012ec/diody-led-smd-kolorowe/kingbright-electronic/
 D2,1,DONE,https://www.tme.eu/pl/details/kp-2012zgc/diody-led-smd-kolorowe/kingbright-electronic/
